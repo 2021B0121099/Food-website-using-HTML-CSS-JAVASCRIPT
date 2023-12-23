@@ -1,14 +1,15 @@
-Welcome to "THE FOOD HEAVEN"!
+# Welcome to "THE FOOD HEAVEN"!
 
-#features-
+# Features-
 Homepage,
 Services Provided,
 Customer Review,
-Contact 
+Contact us
 
-#Technologies Used-
+# Technologies Used-
 HTML,
 CSS,
 JavaScript
 
-#Link - https://2021b0121099.github.io/Food-website-using-HTML-CSS-JAVASCRIPT/
+# Link - 
+https://2021b0121099.github.io/Food-website-using-HTML-CSS-JAVASCRIPT/
